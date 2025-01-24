@@ -1,0 +1,1 @@
+SELECT name FROM finalproject.users, finalproject.photographs WHERE users.userid = photographs.userid;
